@@ -1,0 +1,15 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main.js": "server.js",
+  "scripts": {
+    "test": "echo \"error no test specified"
+  },
+  "author": "Ramin Taghizada",
+  "licence": "ISC",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "^1.7.2"
+  }
+}
